@@ -39,4 +39,46 @@ html
       }
 
   body
+    .ui.secondary.menu
+      a.active.item
+        i.huge.material-icons beach_access
+        | &nbsp; &nbsp;Engenho Novo LLC
+        
+      a.item.
+        
+        In Principio
+        
+      a.item.
+        
+        In Media Res
+      a.item.
+        
+        Gaudeamus
+        
+      .right.menu
+        .item
+          .ui.icon.input
+            input(type='text' placeholder='Search ...')
+            i.search.link.icon
+        a.item 
+          .ui.compact.menu
+            .ui.simple.dropdown.item 
+              i.material-icons all_inclusive
+              | &nbsp;&nbsp;Opções
+              i.dropdown.icon
+              .menu
+                .item Choice 1
+                .item Choice 2
+                .item Choice 3
+
+      script.
+        $(document).ready(function(){
+            $('.ui.dropdown').dropdown();
+          });
+
+      script.
+        $('.activating.element')
+        .popup()
+        ;
+
     != yield

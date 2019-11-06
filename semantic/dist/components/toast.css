@@ -105,10 +105,10 @@
   background-color: #F2C037;
 }
 .success.toast {
-  background-color: #21BA45;
+  background-color: #016936;
 }
 .error.toast {
-  background-color: #DB2828;
+  background-color: #B03060;
 }
 .toast-box .info.attached.progress .bar {
   background: #12a1bf !important;
@@ -117,10 +117,10 @@
   background: #cf9b0d !important;
 }
 .toast-box .success.attached.progress .bar {
-  background: #15792d !important;
+  background: #001d0f !important;
 }
 .toast-box .error.attached.progress .bar {
-  background: #9c1a1a !important;
+  background: #74203f !important;
 }
 
 /*--------------
@@ -128,105 +128,105 @@
 -------------- */
 
 .primary.toast {
-  background-color: #2185D0;
+  background-color: #607D8B;
 }
 .inverted.primary.toast,
 .toast-box .inverted.primary.attached.progress .bar {
   background-color: #54C8FF;
 }
 .secondary.toast {
-  background-color: #1B1C1D;
+  background-color: #A0A0A0;
 }
 .inverted.secondary.toast,
 .toast-box .inverted.secondary.attached.progress .bar {
   background-color: #545454;
 }
 .red.toast {
-  background-color: #DB2828;
+  background-color: #B03060;
 }
 .inverted.red.toast,
 .toast-box .inverted.red.attached.progress .bar {
   background-color: #FF695E;
 }
 .orange.toast {
-  background-color: #F2711C;
+  background-color: #FE9A76;
 }
 .inverted.orange.toast,
 .toast-box .inverted.orange.attached.progress .bar {
   background-color: #FF851B;
 }
 .yellow.toast {
-  background-color: #FBBD08;
+  background-color: #FFD700;
 }
 .inverted.yellow.toast,
 .toast-box .inverted.yellow.attached.progress .bar {
   background-color: #FFE21F;
 }
 .olive.toast {
-  background-color: #B5CC18;
+  background-color: #32CD32;
 }
 .inverted.olive.toast,
 .toast-box .inverted.olive.attached.progress .bar {
   background-color: #D9E778;
 }
 .green.toast {
-  background-color: #21BA45;
+  background-color: #016936;
 }
 .inverted.green.toast,
 .toast-box .inverted.green.attached.progress .bar {
   background-color: #2ECC40;
 }
 .teal.toast {
-  background-color: #00B5AD;
+  background-color: #008080;
 }
 .inverted.teal.toast,
 .toast-box .inverted.teal.attached.progress .bar {
   background-color: #6DFFFF;
 }
 .blue.toast {
-  background-color: #2185D0;
+  background-color: #607D8B;
 }
 .inverted.blue.toast,
 .toast-box .inverted.blue.attached.progress .bar {
   background-color: #54C8FF;
 }
 .violet.toast {
-  background-color: #6435C9;
+  background-color: #EE82EE;
 }
 .inverted.violet.toast,
 .toast-box .inverted.violet.attached.progress .bar {
   background-color: #A291FB;
 }
 .purple.toast {
-  background-color: #A333C8;
+  background-color: #B413EC;
 }
 .inverted.purple.toast,
 .toast-box .inverted.purple.attached.progress .bar {
   background-color: #DC73FF;
 }
 .pink.toast {
-  background-color: #E03997;
+  background-color: #FF1493;
 }
 .inverted.pink.toast,
 .toast-box .inverted.pink.attached.progress .bar {
   background-color: #FF8EDF;
 }
 .brown.toast {
-  background-color: #A5673F;
+  background-color: #A52A2A;
 }
 .inverted.brown.toast,
 .toast-box .inverted.brown.attached.progress .bar {
   background-color: #D67C1C;
 }
 .grey.toast {
-  background-color: #767676;
+  background-color: #A0A0A0;
 }
 .inverted.grey.toast,
 .toast-box .inverted.grey.attached.progress .bar {
   background-color: #DCDDDE;
 }
 .black.toast {
-  background-color: #1B1C1D;
+  background-color: #000000;
 }
 .inverted.black.toast,
 .toast-box .inverted.black.attached.progress .bar {
