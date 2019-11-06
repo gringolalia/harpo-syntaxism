@@ -1,0 +1,42 @@
+doctype
+html
+  head
+    link(rel="stylesheet" href="/main.css")
+    title Romantic Kung Fomantic
+    meta(content='initial-scale=1, shrink-to-fit=no, width=device-width', name='viewport')
+    script(src='https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js')
+    link(rel='stylesheet', href='main.css')
+    link(rel='stylesheet' type='text/css' href='semantic/dist/semantic.min.css')
+    script(src='https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.js')
+    link(rel='stylesheet', href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css')
+    link(rel='stylesheet', href='https://fonts.googleapis.com/css?family=News+Cycle|Material+Icons')
+    //- link(rel='stylesheet' type='text/css' href='https://cdn.jsdelivr.net/npm/fomantic-ui@2.7.8/dist/semantic.min.css')
+    script(src='https://cdn.jsdelivr.net/npm/fomantic-ui@2.7.8/dist/semantic.min.js')
+
+
+    style.
+      
+      html * {
+        font-family: "News Cycle", sans-serif;
+        font-weight: 300 !important;
+        font-style: normal;
+      }
+
+       h1, h2, h3, h4, h5, h6 {
+        font-family: 'News Cycle', sans-serif;
+        font-weight: 300 !important;
+        font-style: normal;
+      }
+
+      .dignity {
+        font-family: 'News Cycle', sans-serif;
+        font-weight: 300;
+        font-style: normal;
+      }
+
+      i, .material-icons {
+        vertical-align: middle;
+      }
+
+  body
+    != yield

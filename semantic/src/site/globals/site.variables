@@ -1,0 +1,11 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@fontName: 'News Cycle';
+
+@headerFont: 'News Cycle', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+
+@pageFont: 'News Cycle', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+
+@googleFontFamily: 'News+Cycle';

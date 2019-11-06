@@ -1,0 +1,8 @@
+{
+  "name": "the-romance-psalter",
+  "version": "1.0.0",
+  "description": "Harp Daimoku With Heroku",
+  "dependencies": {
+    "harp": "*"
+  }
+}
