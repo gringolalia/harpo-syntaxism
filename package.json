@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Harp Daimoku With Heroku",
   "dependencies": {
+    "gulp": "^4.0.2",
     "harp": "*"
   }
 }
